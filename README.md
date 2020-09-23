@@ -26,7 +26,7 @@ In this project we are considering only **trips to and from** the airport.
 # Results Obtained 
 
 
-![Image of Analysis](C:/Users/vivek/Downloads/Uber analysis.jpeg)
+![Image of Uber](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.theverge.com%2F2014%2F2%2F27%2F5453932%2Fuber-driver-experience-los-angeles&psig=AOvVaw36o5CgUm0yYAdu7iQjouax&ust=1600940253170000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMil9a_9_usCFQAAAAAdAAAAABAD)
 
 **From Airort pickup**:Reason behind this gap may occur in different formats like in evening time slot seems to be most problematic for pickup points as airport where the requests being No Cars Available. The reason seems to be that not enough cars are available to service the requests as cars might not be available at the airport due to the cars serving inside the city or may driver worry about the traffic during the evening hours because leaving time of employees.
 
